@@ -15,7 +15,7 @@ def obtener_compañero(cantidad_de_compañeros):
         #agregar la info a la lista
         compañeros.append(compañero)
 
-    #ordenar de menor a m ayor segun la edad
+    #ordenar de menor a mayor segun la edad
     compañeros.sort(key= lambda x:x[1])
 
     #compañero[x] devuelve una tupla con (nombre y edad) y despues accedemos al nombre
