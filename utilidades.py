@@ -1,6 +1,6 @@
 def imprimir_mensaje(mensaje):
-    print(mensaje)
+    print(f'aca esta tu {mensaje}')
 
 
-def obtener_nombre_usuario():
-    return input("Ingresa tu nombre: ")
+#def obtener_nombre_usuario():
+#    return input("Ingresa tu nombre: ")
