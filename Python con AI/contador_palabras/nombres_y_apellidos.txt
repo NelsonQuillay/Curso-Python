@@ -1,0 +1,17 @@
+los datos son: 
+
+Nombre: nelson
+Apellido: quillay
+-------------
+Nombre: melina
+Apellido: quiroga
+-------------
+Nombre: maximo
+Apellido: perez
+-------------
+Nombre: alvaro
+Apellido: orozco
+-------------
+Nombre: mario
+Apellido: lopez
+-------------
